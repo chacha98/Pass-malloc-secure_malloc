@@ -1,0 +1,6 @@
+/home/kapawou/Pass-Memory_allocation/Pass-malloc-secure_malloc/build/CMakeFiles/rebuild_cache.dir
+/home/kapawou/Pass-Memory_allocation/Pass-malloc-secure_malloc/build/CMakeFiles/edit_cache.dir
+/home/kapawou/Pass-Memory_allocation/Pass-malloc-secure_malloc/build/CMakeFiles/intrinsics_gen.dir
+/home/kapawou/Pass-Memory_allocation/Pass-malloc-secure_malloc/build/pass-malloc-secure_malloc/CMakeFiles/rebuild_cache.dir
+/home/kapawou/Pass-Memory_allocation/Pass-malloc-secure_malloc/build/pass-malloc-secure_malloc/CMakeFiles/edit_cache.dir
+/home/kapawou/Pass-Memory_allocation/Pass-malloc-secure_malloc/build/pass-malloc-secure_malloc/CMakeFiles/Malloc_to_secure_mallocPass.dir
